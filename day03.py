@@ -100,4 +100,15 @@ for i in range(1,8):
         a+=1
         print(i,m)
 print(a)
+
+
 '''
+def getpentagonalnumber(n)
+     for i in range(0,100):
+        n=i*(3*i-1)/2
+        return n
+
+        if i % 10 == 0
+        print('')
+
+
